@@ -7,7 +7,7 @@ The machine learning models work even under the coronavirus pandemic. <br>
 However, since the project is not finished, a summary and sample of the project is [provided](https://github.com/dao-v/Stock_Predictions). <br>
 
 
-For the next project, I hope to be able to predict viral evolution (genetic drift) that can create viable and pathogenic viruses, as well as unviable viruses and determine the reason as to why the evolution is unviable.
+For the next project, I hope to be able to predict viral evolution (genetic drift) that can create viable and pathogenic viruses, as well as unviable viruses and determine the reason as to why the evolution is favorable or unfavorable.
 
 
 ## About Me!
@@ -16,8 +16,8 @@ My name is Dao Vang with Dao being similarly pronounce like the Dow Jones stock 
 
 I am currently a SpringBoard student in the Data Science track.
 
-Check out my LinkedIn if you want to know my background:
-https://www.linkedin.com/in/daovang
+Check out my [LinkedIn](https://www.linkedin.com/in/daovang) if you want to know my background:
 
-Contact me if you want to discuss ideas or chat about random stuff:
+
+Contact me if you want to discuss ideas or chat about random stuff:<br>
 dv930@nyu.edu
