@@ -6,7 +6,7 @@ My first large [project](https://github.com/dao-v/Stock_Predictions) involved us
 The machine learning models did worked at the start of the coronavirus pandemic (late Feb. to early Mar.). However, as the pandemic continues to effect the economy, the models were not able to perform as well. <br><br>
 
 [One smaller project examined taxi data to predict variables that affect taxi riders' decisions.](https://github.com/dao-v/Examining_Taxi_Demands_And_Predicting_Rider_Retention)<br>
-Another smaller project examined user information to predict which users are likely to be high usage customers.](https://github.com/dao-v/Predicting_High_Usage_Customers)<br><br>
+[Another smaller project examined user information to predict which users are likely to be high usage customers.](https://github.com/dao-v/Predicting_High_Usage_Customers)<br><br>
 
 
 
