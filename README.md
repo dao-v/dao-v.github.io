@@ -1,12 +1,13 @@
 # Welcome & Hello!
 
-(My GitHub page is still a **work in progress** while I learn more about Git and the many things it can do!)
+The most recent large [project](https://github.com/dao-v/Vocal_Replacement_of_Audio_Recordings) attempted to replace the vocals of an audio file with the vocals of a specific speaker. The results did not produce the expected outcome. However, the learning process and approach used in this project does serve as the starting point for new and better ideas on how to perform the task. <br><br>
 
-The most recent [project](https://github.com/dao-v/Stock_Predictions) that is being worked on involves using machine learning to predict the movement/direction of stock prices for the next day (whether the stock price will increase or decrease). <br>
+My first large [project](https://github.com/dao-v/Stock_Predictions) involved using random forest to predict the movement/direction of stock prices for the next day (whether the stock price will increase or decrease). <br>
 The machine learning models did worked at the start of the coronavirus pandemic (late Feb. to early Mar.). However, as the pandemic continues to effect the economy, the models were not able to perform as well. <br><br>
 
+[One smaller project examined taxi data to predict variables that affect taxi riders' decisions.](https://github.com/dao-v/Examining_Taxi_Demands_And_Predicting_Rider_Retention)<br>
+Another smaller project examined user information to predict which users are likely to be high usage customers.](https://github.com/dao-v/Predicting_High_Usage_Customers)<br><br>
 
-For the next project, I hope to be able to predict viral evolution (genetic drift) that can create viable and/or pathogenic viruses, as well as unviable viruses and determine the reason as to why the evolution is favorable or unfavorable.
 
 
 ## About Me!
