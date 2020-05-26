@@ -1,4 +1,6 @@
-# Welcome & Hello!
+# Welcome & Hello!<br><br>
+
+In a recent smaller project, I [analyzed data on patients infected with COVID-19](https://github.com/dao-v/Investigation_of_COVID-19) to see what factors seem to be common in those patients who were not able to survive the infection. These factors were mostly determined using data visualization and Random Forest. The two largest factors that determined if a person was to survive their affliction were age and how long they've been infected. Unexpectedly, the predictive performance of the various Random Forest model variants produced high accuracy results of about 85%-95% depending on the factors/variables being fed into the models.<br><br>
 
 The most recent large [project](https://github.com/dao-v/Vocal_Replacement_of_Audio_Recordings) attempted to replace the vocals of an audio file with the vocals of a specific speaker. The results did not produce the expected outcome. However, the learning process and approach used in this project does serve as the starting point for new and better ideas on how to perform the task. <br><br>
 
