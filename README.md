@@ -24,7 +24,7 @@ My name is Dao Vang with Dao being similarly pronounce like the Dow Jones stock 
 
 I am currently a SpringBoard student in the Data Science track.
 
-Check out my [personal website](www.daovang.me) if a quick short story of my life!
+Check out my [personal website](www.daovang.me) for a quick short story of my life!
 
 Or visit me on my [LinkedIn](https://www.linkedin.com/in/daovang) if you want to know my background!
 
